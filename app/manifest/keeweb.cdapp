@@ -1,0 +1,11 @@
+{
+    "name": "KeeWeb",
+    "version": "1.0",
+    "description": "Free cross-platform password manager compatible with KeePass",
+    "author": "floflispull",
+    "url": "https://keeweb.mirroring.eth.link/",
+    "icon": "https://keeweb.mirroring.eth.link/icons/android-chrome-192x192.png",
+    "permissions" : "true",
+    "width": "700",
+    "height": "450"
+}
